@@ -1,2 +1,0 @@
-# Wisdom-Sprouts
-# Wisdom-Sprouts
