@@ -1,5 +1,4 @@
 public class Day1 {
-
     public static int sort012(int[] arr) {
         int low = 0, mid = 0, high = arr.length - 1;
 
