@@ -15,8 +15,8 @@ public class Day17 {
         }
     }
     public static void main(String[] args) {
-        int number = 18;
-        System.out.print("Prime factorization of " + number + " is: ");
-        primeFactorization(number);
+        int n = 27;
+        System.out.print("Prime factorization of " + n + " is: ");
+        primeFactorization(n);
     }
 }
